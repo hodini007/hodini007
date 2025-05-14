@@ -33,7 +33,7 @@
   <a href="https://instagram.com/raiyan.rohit" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@raiyanrohit" target="_blank">
+  <a href="https://www.youtube.com/@raiyanrohit6186" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube" />
   </a>
   <a href="https://codeforces.com/profile/hodini007" target="_blank">
