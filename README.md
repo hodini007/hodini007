@@ -27,10 +27,10 @@
   <a href="https://www.linkedin.com/in/md-raiyan-bin-rafique-ba109a235" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/raiyan.rohit" target="_blank">
+  <a href="https://facebook.com/raiyan.bin.rafique" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/raiyan.rohit" target="_blank">
+  <a href="https://instagram.com/raiyanbinrafique" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@raiyanrohit6186" target="_blank">
